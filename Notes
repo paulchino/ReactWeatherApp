@@ -1,0 +1,10 @@
+3 Routes:
+1. Home View - /
+	a. Enter City info
+2. Forcast view - route '/forecast/{cityInfo}'
+	a. Select a day for details
+	b. ?? If no returned results notify user
+3. Details /detail/{cityInfo}
+	a. Info for the specific day
+
+
